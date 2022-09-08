@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "type_traits": "cpp"
+    }
+}
